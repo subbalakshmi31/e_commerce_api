@@ -4,7 +4,7 @@
 This is an E-commerce API project made using Node.Js, ExpressJs & MongoDB. 
 
 STEPS TO USE THE API:
-1) Initialize the project by running the "npm init" command in the terminal within the project directory
+1) Initialize the project by running the "npm install" command in the terminal within the project directory
 2) Start the server using the command "node index.js"
 3) Open Postman
 4) Send a GET request to "localhost:3000/products"
